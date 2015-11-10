@@ -5,3 +5,4 @@ gem 'puma'
 gem 'foreman'
 
 gem 'rspec'
+gem 'rack-test'
