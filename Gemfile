@@ -6,3 +6,4 @@ gem 'foreman'
 
 gem 'rspec'
 gem 'rack-test'
+gem 'rubocop'
